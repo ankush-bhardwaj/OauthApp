@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7368708811",
+    "project_id": "omailapp",
+    "storage_bucket": "omailapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7368708811:android:d3504d83fe0a8a2500414e",
+        "android_client_info": {
+          "package_name": "com.omailapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7368708811-o9pi67pgonc2togtqu84io7g82avmvkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omailapp2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "7368708811-kuo5b0erolb4i8o8abdt6a0bjj0n0ia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAV7dQP7J6IhBPkEuDohbYXBx0DZlF6ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7368708811-kuo5b0erolb4i8o8abdt6a0bjj0n0ia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
